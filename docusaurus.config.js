@@ -11,7 +11,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Little Star\'s Library',
   tagline: 'Competitive Programming Library',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://little-stars-library.vercel.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
