@@ -67,9 +67,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      themeConfig: {
-        image: 'img/starry_sky_tree.png',
-      },
+      image: 'img/starry_sky_tree.png',
       navbar: {
         title: 'Little Star\'s Library',
         logo: {
