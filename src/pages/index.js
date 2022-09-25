@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`Top Page of ${siteConfig.title}`}
-      description="Kotlin のライブラリ">
+      description="競技プログラミング用 Kotlin ライブラリを扱うサイトです。">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

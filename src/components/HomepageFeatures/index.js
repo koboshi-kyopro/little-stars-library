@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_starry_window_re_0v82.svg').default,
     description: (
       <>
-        まだ書いてないけど。
+        動く仕組みからライブラリを解説。図も豊富に用意します。
       </>
     ),
   },
